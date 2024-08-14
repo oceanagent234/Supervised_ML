@@ -10,16 +10,16 @@ Overview
 This project aims to predict student exam scores based on the number of hours they study. By utilizing a supervised machine learning approach, specifically linear regression, the model identifies the relationship between study hours and scores. The resulting model can be used to make predictions and provide insights into how study habits may influence academic performance.
 
 Table of Contents
--1. Import Libraries
--2. Read Data
-- 3. Data Analysis and Preparation
+- 1.Import Libraries
+- 2.Read Data
+- 3.Data Analysis and Preparation
  - 3.1 - Understand the Data
    - 3.1.1 - Data Dimension
    - 3.1.2 - Data Types
    - 3.1.3 - Summary Statistics
    - 3.1.4 - Missing Values
    - 3.1.5 - Visualization
--4.  Model Building
+- 4.Model Building
 - 4.1 - Split the Data into Training and Test Sets
 - 4.2 - Build a Model
 - 4.3 - Creating an Object
