@@ -17,8 +17,8 @@ Table of Contents
     - 3.1.1 - Data Dimension
     - 3.1.2 - Data Types
     - 3.1.3 - Summary Statistics
-   - 3.1.4 - Missing Values
-   - 3.1.5 - Visualization
+    - 3.1.4 - Missing Values
+    - 3.1.5 - Visualization
 - 4.Model Building
   - 4.1 - Split the Data into Training and Test Sets
   - 4.2 - Build a Model
