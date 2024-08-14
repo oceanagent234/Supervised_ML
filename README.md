@@ -5,7 +5,7 @@ This project aims to predict student exam scores based on the number of hours th
 Table of Contents
 1.Import Libraries
 2.Read Data
-3.Data Analysis and Preparation
+3.Data Analysis and Preparation 
  3.1 - Understand the Data
   3.1.1 - Data Dimension
   3.1.2 - Data Types
