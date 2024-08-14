@@ -24,7 +24,7 @@ Table of Contents
 
 
  Installation
--To run this project, you'll need to have Python installed along with the following libraries:
+  -To run this project, you'll need to have Python installed along with the following libraries:
 
 - pandas
 - numpy
